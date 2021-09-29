@@ -49,4 +49,12 @@ pip install --upgrade tensorflow
 ## install numpy
 sudo pip install numpy
 
+## download jupyter notebook
+sudo apt-get update
+sudo apt-get upgrade
+
+sudo apt-get install jupyter-notebook
+
+jupyter notebook
+
 
